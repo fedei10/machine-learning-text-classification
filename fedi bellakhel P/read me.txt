@@ -1,0 +1,13 @@
+First of all, I want to express my gratitude for providing me the chance to work with you. 
+If you're interested in finding out how this model is created check the " model creation file " There, you'll discover all the information you need.
+reminder : am using the most recent release of each library.
+
+
+now if you want to launch the project simply : 
+1) "run cmd and type " pip install flask flair 
+2) type : cd " my path to the model"
+3) type python app.py
+4) when attempting the recommendation below (python app.py), an ip server will appear,  click it to open a browser window. 
+5) enter any phrase and click "Classify," and the model will estimate the phrase's likelihood to offend. 
+
+thank you for trying my model :)
